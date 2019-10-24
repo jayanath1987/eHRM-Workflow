@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2008-12-18T22:47:25Z" product-name="messages">
+    <header/>
+        <body>            
+      <trans-unit id="1">
+        <source>Approval Group Summary</source>
+        <target>Approval Group Summary</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Approval Group Name</source>
+        <target>Approval Group Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Add Approval Group</source>
+        <target>Add Approval Group</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Approval Group</source>
+        <target>Approval Group</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Assign to approval groups</source>
+        <target>Assign to approval groups</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Approval group  name</source>
+        <target>Approval group name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Employee List</source>
+        <target>Employee List</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Add Employee</source>
+        <target>Add Employee</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Remove</source>
+        <target>Remove</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Approval  Summary List</source>
+        <target>Approval Summary List</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Pending Approvals</source>
+        <target>Pending Approvals</target>
+      </trans-unit>
+     </body>
+  </file>
+</xliff>

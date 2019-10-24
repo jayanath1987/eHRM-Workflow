@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body> 
+            <trans-unit id="1">
+                <source>Approval Group Summary</source>
+                <target>ஒப்புதல் குழு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approval Group Name</source>
+                <target>ஒப்புதல் குழு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Approval Group</source>
+                <target>அனுமதி குழுவை சேர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approval Group</source>
+                <target>ஒப்புதல் குழு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Assign to Approval Groups</source>
+                <target>அனுமதி குழுக்கள் ஒதுக்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approval Group Name</source>
+                <target>ஒப்புதல் குழு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee List</source>
+                <target>பணியாளர் பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Employee</source>
+                <target>பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approval  Summary List</source>
+                <target>ஒப்புதல் சுருக்கம் பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pending Approvals</source>
+                <target>நிலுவையில் அனுமதியும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select at least one employee</source>
+                <target>குறைந்தது ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Admin can not see this page</source>
+                <target>நிர்வாகம் இந்த பக்கம் பார்க்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select at least one record to delete</source>
+                <target>நீக்க குறைந்தது ஒரு பதிவு தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Do you really want to delete?</source>
+                <target>உண்மையில் நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select the search mode</source>
+                <target>தேடல் முறையில் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>View</source>
+                <target>காண்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee ID</source>
+                <target>பணியாளர் ID</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Division</source>
+                <target>பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Reset</source>
+                <target>மீட்டமை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Delete</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum length should be 200 characters</source>
+                <target>அதிகபட்ச நீளம் 200 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>No invalid characters are allowed</source>
+                <target>இல்லை தவறான எழுத்துக்கள் அனுமதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid Institute Name</source>
+                <target>செல்லாத நிறுவனம் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Name is required</source>
+                <target>பயிற்சி பெயர் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Year is required</source>
+                <target>பயிற்சி வருடம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>No special characters allowed</source>
+                <target>அனுமதி இல்லை தனித்துவ</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>No special characters allowed</source>
+                <target>அனுமதி இல்லை தனித்துவ</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>No special characters allowed</source>
+                <target>அனுமதி இல்லை தனித்துவ</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select at least one employee</source>
+                <target>குறைந்தது ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Successfully Deleted</source>
+                <target>வெற்றிகரமாக நீக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approval Status</source>
+                <target>ஒப்புதல் தகுதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approved Person</source>
+                <target>அங்கீகரிக்கப்பட்ட நபர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approval Status</source>
+                <target>ஒப்புதல் தகுதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approved Date</source>
+                <target>அங்கீகரிக்கப்பட்ட தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Application Date</source>
+                <target>விண்ணப்ப தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pending..</source>
+                <target>நிலுவையில் ..</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pending</source>
+                <target>நிலுவையில்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approved</source>
+                <target>ஒப்புதல்</target>
+            </trans-unit>    
+        </body>
+    </file>
+</xliff>
